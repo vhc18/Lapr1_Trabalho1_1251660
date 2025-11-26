@@ -1,0 +1,1 @@
+ReadMe é um ficheiro que serve para dar instruções de como funciona e como rodar o projeto ou seja digamos que é uma espécie de decomentação resumida
